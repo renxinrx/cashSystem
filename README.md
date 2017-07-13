@@ -1,2 +1,21 @@
-# 这是一个Vue2+Webpack+Element-UI+Axios+vueRouter的一个模拟快餐店收银系统，目前只是做了页面展示，添加/删除商品，模拟结账的功能。后续会陆续完善。
-主要是为了学习vue。
+# cashsystem
+
+> a vue.js for cashsystem
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
